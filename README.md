@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Emilio Joseph Calma</h1>
+<h1 align="center">Hi 👋, I'm Emilio</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h41s3&label=Profile%20views&color=0e75b6&style=flat" alt="h41s3" /> </p>
 
 - 🔭 I’m currently working on [refining my skills in C++, Python, Web Development, and Swift](https://bit.ly/3Zre6zy)
 
-- 🌱 I’m currently learning **AI and Machine Learning, alongside DSA, to further develop my problem solving skills.**
+- 🌱 I’m currently learning **AI and Machine Learning, alongside DSA, to further develop my problem-solving skills.**
 
 - 👯 I’m looking to collaborate on **projects focused on Software Engineering**
 
