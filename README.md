@@ -1,35 +1,33 @@
-## Hi there 👋 I'm Emilio!
+<h1 align="center">Hi 👋, I'm Emilio Joseph Calma</h1>
+<h3 align="center">Aspiring Software Engineer</h3>
 
-I’m a driven software developer with a solid foundation in **Object-Oriented Programming**, **Data Structures & Algorithms**, and **System Design**. With hands-on experience across **Python**, **JavaScript**, **Swift**, and **C++**, I love turning ideas into functional and engaging applications. Here’s a glimpse of what I’ve worked on:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h41s3&label=Profile%20views&color=0e75b6&style=flat" alt="h41s3" /> </p>
 
-### 🔧 Projects:
-- **Pet Adoption Platform** | HTML, CSS, JavaScript  
-  Built a fully responsive website where users can browse adoptable pets with dynamic filtering and real-time data fetching, enhancing both user engagement and overall experience.
-  
-- **Recipe Finder App** | Swift, API Integration  
-  Developed a mobile app using RESTful APIs to fetch recipes based on user input, delivering quick, reliable recipe suggestions to improve user satisfaction.
+- 🔭 I’m currently working on [refining my skills in C++, Python, Web Development, and Swift](https://bit.ly/3Zre6zy)
 
-- **Arcade Shooter Game** | Python, Pygame  
-  Created an engaging arcade-style shooter with player-controlled elements, custom sound effects, scoring, animations, and smooth collision detection for a fun and immersive experience.
+- 🌱 I’m currently learning **AI and Machine Learning, alongside DSA, to further develop my problem solving skills.**
 
-- **Banking System** | C++  
-  Engineered a comprehensive banking system for managing accounts, including deposits and withdrawals. Used **object-oriented principles** to ensure scalability and maintainability for future enhancements.
+- 👯 I’m looking to collaborate on **projects focused on Software Engineering**
 
-### 🌱 What I’m Learning:
-Currently diving into **AI** and **machine learning**, while continuing to sharpen my skills in **data structures & algorithms**. I’m constantly pushing myself to explore new technologies and improve my problem-solving abilities.
+- 🤝 I’m looking for help with **expanding my understanding of AI Algorithms, System Design, and API Integrations**
 
-### 🤝 What I’m Looking For:
-I’m excited to collaborate on challenging projects, particularly in the fields of **software engineering**, **AI**, and **game development**. If you’re looking for a developer who’s passionate about **Python**, **C++**, and **JavaScript**, let’s connect!
+- 👨‍💻 All of my projects are available at [https://bit.ly/3Zre6zy](https://bit.ly/3Zre6zy)
 
-### 💬 Ask Me About:
-- **Game development** using **Python** and **Pygame**
-- **Web development** with **HTML5**, **CSS3**, and **JavaScript**
-- My journey in **self-taught programming** and **data structures & algorithms**
+- 💬 Ask me about **Python, SQL, C++, Java, Swift, and Web Development**
 
-### 📫 How to Reach Me:
-Email: calmaemiliojoseph13.8@gmail.com  
-GitHub: [H41s3](https://github.com/H41s3)  
-Portfolio: [Portfolio](https://bit.ly/3Zre6zy)
+- 📫 How to reach me **calmaemilio803@gmail.com**
 
-### ⚡ Fun Fact:
-I’m passionate about travel and adventure, with a dream to explore the Philippines—especially the islands of **Palawan** and **Boracay**. Also, I have a soft spot for building **cat-themed games**! 🐱
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AXGnLaQ_uyCje6rtam4bROtxR24br8Qt/view?usp=sharing](https://drive.google.com/file/d/1AXGnLaQ_uyCje6rtam4bROtxR24br8Qt/view?usp=sharing)
+
+- ⚡ Fun fact **I'm passionate about travel and adventure, and I love cats!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h41s3&show_icons=true&locale=en&layout=compact" alt="h41s3" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h41s3&show_icons=true&locale=en" alt="h41s3" /></p>
