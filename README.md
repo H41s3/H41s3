@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm passionate about travel and adventure, and I love cats!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: _____iejc</h3>
 <p align="left">
 </p>
 
