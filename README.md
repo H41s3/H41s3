@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **calmaemilio803@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AXGnLaQ_uyCje6rtam4bROtxR24br8Qt/view?usp=sharing](https://drive.google.com/file/d/1AXGnLaQ_uyCje6rtam4bROtxR24br8Qt/view?usp=sharing)
+- 📄 Know about my experiences [...)
 
 - ⚡ Fun fact **I'm passionate about travel and adventure, and I love cats!**
 
