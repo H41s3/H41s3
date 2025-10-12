@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [...)
 
-- ⚡ Fun fact **I'm passionate about travel and adventure, and I love cats!**
+- ⚡ Fun fact **I love cats!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
