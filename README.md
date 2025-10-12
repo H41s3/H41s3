@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **expanding my understanding of AI Algorithms, System Design, and API Integrations**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3Zre6zy](https://bit.ly/3Zre6zy)
+- 👨‍💻 All of my projects are available at [https://h4iseportfolio.netlify.app/)
 
 - 💬 Ask me about **Python, SQL, C++, Java, Swift, and Web Development**
 
