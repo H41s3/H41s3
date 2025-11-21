@@ -7,7 +7,7 @@
 
 - 🔭 Currently focused on **developing robust software solutions** using **C++, Python, and modern web technologies**.
 
-- 🌱 Exploring **AI, Machine Learning, and System Design** — integrating these disciplines to create smarter, high-performance applications.
+- 🌱 **AI, Machine Learning, and System Design** — integrating these disciplines to create smarter, high-performance applications.
 
 - 👯 Open to collaborating on **engineering-driven projects** that emphasize scalability, clean architecture, and real-world impact.
 
