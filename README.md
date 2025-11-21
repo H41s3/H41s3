@@ -15,8 +15,6 @@
 
 - 👨‍💻 Portfolio: [https://h4iseportfolio.netlify.app](https://h4iseportfolio.netlify.app)
 
-- 💬 Talk to me about **building efficient systems in Python, C++, Swift, or React.**
-
 - 📫 Reach me at **calmaemilio803@gmail.com**
 
 - ⚡ Outside of code, I recharge with **cats, arts, and a good caffeine fix.**
