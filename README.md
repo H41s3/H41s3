@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **calmaemilio803@gmail.com**
 
-- ⚡ Outside of code, I recharge with **cats, design, and a good caffeine fix.**
+- ⚡ Outside of code, I recharge with **cats, arts, and a good caffeine fix.**
 
 
 <h3 align="left">Connect with me:</h3>
