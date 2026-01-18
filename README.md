@@ -18,7 +18,42 @@
 - 📫 Reach me at **calmaemilio803@gmail.com**
 
 - ⚡ Outside of code, I recharge with **cats, arts, and a good caffeine fix.**
+<h1 align="center">Hey, I’m Emilio 👋</h1>
+<h3 align="center">Software Engineering Student · Backend Systems · Applied AI</h3>
 
+<p align="center">
+  <a href="https://h4iseportfolio.netlify.app">Portfolio</a> ·
+  <a href="mailto:calmaemilio803@gmail.com">Email</a>
+</p>
+
+---
+
+### 🚀 About Me
+
+* Software Engineering student focused on **scalable backend systems**
+* Strong in **C++ and Python**, with real-world project experience
+* Interested in **AI/ML applied to production systems**, not demos
+
+### 🧠 Core Focus
+
+* Backend & API design
+* System design fundamentals
+* Data-driven and AI-powered applications
+
+### 🛠 Tech Stack
+
+**C++, Python, Django, Node.js, React, Docker, PostgreSQL, MongoDB**
+
+### ⚡ Outside Code
+
+Cats, art, and caffeine.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h41s3&show_icons=true&hide_border=true" />
+</p>
+****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
