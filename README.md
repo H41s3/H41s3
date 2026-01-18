@@ -1,23 +1,3 @@
-<h1 align="center">Hey, I'm Emilio 👋</h1>
-<h3 align="center">Software Engineer | Building Scalable, User-Focused Systems</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=h41s3&label=Profile%20views&color=0e75b6&style=flat" alt="h41s3" />
-</p>
-
-- 🔭 Currently focused on **developing robust software solutions** using **C++, Python, and modern web technologies**.
-
-- 🌱 **AI, Machine Learning, and System Design** — integrating these disciplines to create smarter, high-performance applications.
-
-- 👯 Open to collaborating on **engineering-driven projects** that emphasize scalability, clean architecture, and real-world impact.
-
-- 🤝 Always expanding my expertise in **API design, backend systems, and data-driven development**.
-
-- 👨‍💻 Portfolio: [https://h4iseportfolio.netlify.app](https://h4iseportfolio.netlify.app)
-
-- 📫 Reach me at **calmaemilio803@gmail.com**
-
-- ⚡ Outside of code, I recharge with **cats, arts, and a good caffeine fix.**
 <h1 align="center">Hey, I’m Emilio 👋</h1>
 <h3 align="center">Software Engineering Student · Backend Systems · Applied AI</h3>
 
