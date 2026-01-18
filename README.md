@@ -31,9 +31,10 @@ Cats, art, and caffeine.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h41s3&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h41s3&show_icons=true&hide_border=true&cache_seconds=1800" />
 </p>
-****
+
+----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
