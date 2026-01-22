@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h41s3&label=Profile%20views&color=0e75b6&style=flat" alt="h41s3" /> </p>
 <h1 align="center">Hey, I’m Emilio 👋</h1>
 <h3 align="center">Software Engineering Student · Backend Systems · Applied AI</h3>
 
