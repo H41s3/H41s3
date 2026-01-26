@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student · Backend Systems · Applied AI</h3>
 
 <p align="center">
-  <a href="https://h4iseportfolio.netlify.app">Portfolio</a> ·
+  <a href="https://h4iseportfolio.netlify.app">Portfolio</a>
   <a href="mailto:calmaemilio803@gmail.com">Email</a>
 </p>
 
