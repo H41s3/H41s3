@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m Emilio 👋</h1>
+<h1 align="center">Hey, I’m Emilio 👻</h1>
 <h3 align="center">Software Engineering Student · Backend Systems · Applied AI</h3>
 
 <p align="center">
