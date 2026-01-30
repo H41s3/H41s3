@@ -20,6 +20,11 @@
 * System design fundamentals
 * Data-driven and AI-powered applications
 
+
+
+
+
+
 ### 🛠 Tech Stack
 
 **C++, Python, Jupyter, Matplotlin, Numpy, Django, Node.js, React, Docker, PostgreSQL, MongoDB**
