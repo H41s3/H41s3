@@ -22,7 +22,7 @@
 
 ### 🛠 Tech Stack
 
-**C++, Python, Jupyer, Django, Node.js, React, Docker, PostgreSQL, MongoDB**
+**C++, Python, Jupyter, Matplotlin, Numpy, Django, Node.js, React, Docker, PostgreSQL, MongoDB**
 
 ### ⚡ Outside Code
 
