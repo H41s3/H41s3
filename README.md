@@ -24,7 +24,7 @@
 * Backend and API design in **Python**, with native **iOS** and cross-platform **desktop** apps on top
 * Interested in **AI/ML applied to real products**, not demos
 
-### 🧪 Selected Work
+### 🧪 Featured Projects
 
 * **[Sentiment API](https://github.com/H41s3/sentiment-api)** — FastAPI + HuggingFace Transformers, CI with a 95% coverage gate. [Live demo](https://sentiment-api-nv4e.onrender.com/docs)
 * **[Smart Resume Parser](https://github.com/H41s3/Smart-Resume-Parser)** — full-stack NLP app (FastAPI, spaCy, React) that turns PDF/DOCX resumes into structured data with scoring
