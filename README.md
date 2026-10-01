@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Emilio 👻</h1>
 <h3 align="center">Founder & Builder · iOS, Desktop & Applied AI</h3>
 <p align="center"><sub>Software Engineering student at Deakin University · Melbourne, AU</sub></p>
-<p align="center"><b>🟢 Open to work</b> — software engineering roles (backend, iOS, full-stack). <a href="mailto:calmaemilio803@gmail.com">Get in touch</a>.</p>
 
 <p align="center">
   <a href="https://h4iseportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
