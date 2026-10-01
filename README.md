@@ -25,6 +25,7 @@
 * **[Sentiment API](https://github.com/H41s3/sentiment-api)** — FastAPI + HuggingFace Transformers, CI with a 95% coverage gate. [Live demo](https://sentiment-api-nv4e.onrender.com/docs)
 * **[Smart Resume Parser](https://github.com/H41s3/Smart-Resume-Parser)** — full-stack NLP app (FastAPI, spaCy, React) that turns PDF/DOCX resumes into structured data with scoring
 * **[Health Tracker](https://github.com/H41s3/Health-Tracker)** — React + TypeScript health dashboard. [Live demo](https://he3lthflow.netlify.app/)
+* **[Cuisinefyy](https://github.com/H41s3/cuisinefyy)** — recipe finder built with React, TypeScript and Tailwind CSS
 
 ### 🛠 Tech Stack
 
