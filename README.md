@@ -30,6 +30,7 @@
 * **[Smart Resume Parser](https://github.com/H41s3/Smart-Resume-Parser)** — full-stack NLP app (FastAPI, spaCy, React) that turns PDF/DOCX resumes into structured data with scoring
 * **[Health Tracker](https://github.com/H41s3/Health-Tracker)** — React + TypeScript health dashboard. [Live demo](https://he3lthflow.netlify.app/)
 * **[Cuisinefyy](https://github.com/H41s3/cuisinefyy)** — recipe finder built with React, TypeScript and Tailwind CSS. [Live demo](https://cu1sinefy.netlify.app)
+* **[PetPals](https://github.com/H41s3/PetPals)** — pet shop website built for a client with React, React Router and Vite. [Live site](https://p3tpals.netlify.app)
 
 ### 🛠 Tech Stack
 
