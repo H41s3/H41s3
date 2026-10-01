@@ -9,10 +9,13 @@
 
 ---
 
+### 🚢 Shipped
+
+* **p1p** — a small round droid that lives in your system tray and checks in on you with nudges to stretch, rest and take breaks. Electron, macOS + Windows. **[Live on the Microsoft Store →](https://apps.microsoft.com/detail/9N0P6D5LJNNV)**
+
 ### 🔨 Currently Building
 
 * **wtf** — an iOS app that fights doomscrolling. A mascot cat reacts to your screen time on the apps you pick and shields them once you cross a limit. SwiftUI + Apple's Screen Time APIs (FamilyControls, DeviceActivity, ManagedSettings), fully on-device.
-* **p1p** — a small round droid that lives in your system tray and checks in on you with nudges to stretch, rest and take breaks. Electron, macOS + Windows. **[Live on the Microsoft Store →](https://apps.microsoft.com/detail/9N0P6D5LJNNV)**
 
 ### 🚀 About Me
 
