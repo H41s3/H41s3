@@ -1,40 +1,38 @@
 <h1 align="center">Hey, I'm Emilio 👻</h1>
-<h3 align="center">Software Engineering Student · Backend Systems · Applied AI</h3>
+<h3 align="center">Founder & Builder · iOS, Desktop & Applied AI</h3>
+<p align="center"><sub>Software Engineering student at Deakin University · Melbourne, AU</sub></p>
 
 <p align="center">
   <a href="https://h4iseportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:calmaemilio803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
+### 🔨 Currently Building
+
+* **wtf** — an iOS app that fights doomscrolling. A mascot cat reacts to your screen time on the apps you pick and shields them once you cross a limit. SwiftUI + Apple's Screen Time APIs (FamilyControls, DeviceActivity, ManagedSettings), fully on-device.
+* **p1p** — a small round droid that lives in your system tray and checks in on you with nudges to stretch, rest and take breaks. Electron, macOS + Windows. **[Live on the Microsoft Store →](https://apps.microsoft.com/detail/9N0P6D5LJNNV)**
+
 ### 🚀 About Me
 
-* Software Engineering student focused on **scalable backend systems**
-* Strong in **C++ and Python**, with real-world project experience
-* Interested in **AI/ML applied to production systems**, not demos
+* I ship products end to end: idea, design, code, store listing
+* Backend and API design in **Python**, with native **iOS** and cross-platform **desktop** apps on top
+* Interested in **AI/ML applied to real products**, not demos
 
-### 🧠 Core Focus
+### 🧪 Selected Work
 
-* Backend & API design
-* System design fundamentals
-* Data-driven and AI-powered applications
+* **[Sentiment API](https://github.com/H41s3/sentiment-api)** — FastAPI + HuggingFace Transformers, CI with a 95% coverage gate. [Live demo](https://sentiment-api-nv4e.onrender.com/docs)
+* **[Smart Resume Parser](https://github.com/H41s3/Smart-Resume-Parser)** — full-stack NLP app (FastAPI, spaCy, React) that turns PDF/DOCX resumes into structured data with scoring
+* **[Health Tracker](https://github.com/H41s3/Health-Tracker)** — React + TypeScript health dashboard. [Live demo](https://he3lthflow.netlify.app/)
 
 ### 🛠 Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚡ Outside Code
 
